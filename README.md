@@ -4,7 +4,7 @@ Bismuth development tools to simplify onboarding for direct blockchain programmi
 
 Currently runs off the local database, API planned in the future.
 
-Requires Bismuth essentials module, you can hack it by changing sys.path.append("d:/bismuth") to your path to essentials.py
+Requires Bismuth essentials module, you can hack it by changing sys.path.append("d:/bismuth") to your path to folder with essentials.py
 
 Devkit is controlled from interface.py
 
